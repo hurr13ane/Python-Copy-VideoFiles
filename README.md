@@ -1,10 +1,10 @@
 ## Table of Contents
 
-1. [Python Copy Videofiles](https://github.com/hurr13ane/Python-Copy-VideoFiles#python-copy-videofiles)
+1. [Python Copy Videofiles](#python-copy-videofiles)
 2. [Story 1 - Copying from a single directory ](#story-1---copying-from-a-single-directory)
 3. [Story 2 - Copying from multiple directories ](#story-2---copying-from-multiple-directories)
 4. [Story 3 - Copying with existing file check ](#story-3---copying-with-existing-file-check)
-2. [Functionality](https://github.com/hurr13ane/Python-Copy-VideoFiles#functionality)
+2. [Functionality](#functionality)
    - browse_src_dirs()
    - browse_dst_dir()
    - select_additional_files()
@@ -12,20 +12,20 @@
    - expand_additional_files()
    - expand_dst_dir()
    - copy_files()
-3. [User Interface](https://github.com/hurr13ane/Python-Copy-VideoFiles#user-interface)
-4. [How Does it work?](https://github.com/hurr13ane/Python-Copy-VideoFiles#how-does-it-work)
-5. [Requirements](https://github.com/hurr13ane/Python-Copy-VideoFiles#requirements)
-6. [Usage](https://github.com/hurr13ane/Python-Copy-VideoFiles#usage)
-7. [ search_and_copy() Function](https://github.com/hurr13ane/Python-Copy-VideoFiles#search-and-copy)
+3. [User Interface](#user-interface)
+4. [How Does it works?](#how-does-it-works)
+5. [Requirements](#requirements)
+6. [Usage](#usage)
+7. [ search_and_copy() Function](#search-and-copy)
    - Input Parameters
    - Output
    - Implementation
-8. [main() Function](https://github.com/hurr13ane/Python-Copy-VideoFiles#main-function)
+8. [main() Function](#main-function)
    - Implementation
-9. [Dependencies](https://github.com/hurr13ane/Python-Copy-VideoFiles#dependencies)
-10. [copy_files_gui() function](https://github.com/hurr13ane/Python-Copy-VideoFiles#copy-files-gui)
-11. [Support](https://github.com/hurr13ane/Python-Copy-VideoFiles#support)
-12. [License](https://github.com/axbecher/Supply_Status_Checker#license)
+9. [Dependencies](#dependencies)
+10. [copy_files_gui() function](#copy-files-gui)
+11. [Support](#support)
+12. [License](#license)
 
 # Python Copy Videofiles
 
@@ -69,7 +69,7 @@ The program has several functions to enable the user to browse and select the so
 # User Interface:
 The user interface is created with the tkinter library and includes labels, entry fields, and buttons to interact with the functions described above. The program prompts the user to select a source directory, a destination directory, and any additional directories to include in the copy process. It also displays the status of the copy process.
 
-# How Does it work?
+# How Does it works?
 - The program prompts the user to select a source directory and a destination directory, as well as any additional directories that they want to include in the copy process.
 - The `browse_src_dirs()` and `browse_dst_dir()` functions prompt the user to select a directory using a file dialog and save the path to the selected directory in the src_dirs and dst_dir global variables, respectively.
 - The `select_additional_files()` function prompts the user to enter the number of additional directories they want to include in the copy process and then prompts them to select those directories using a file dialog. The selected directories are stored in the additional_files list.

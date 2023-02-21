@@ -1,9 +1,9 @@
 ## Table of Contents
 
 1. [Python Copy Videofiles](https://github.com/hurr13ane/Python-Copy-VideoFiles#python-copy-videofiles)
-2. [Story 1 - Copying from a single directory ](https://github.com/hurr13ane/Python-Copy-VideoFiles#story1-copying-from-a-single-directory)
-3. [Story 2 - Copying from multiple directories ](#story2-copying-from-multiple-directories)
-4. [Story 3 - Copying with existing file check ](https://github.com/hurr13ane/Python-Copy-VideoFiles#story3-copying-with-existing-file-check)
+2. [Story 1 - Copying from a single directory ](#story-1---copying-from-a-single-directory)
+3. [Story 2 - Copying from multiple directories ](#story-2---copying-from-multiple-directories)
+4. [Story 3 - Copying with existing file check ](#story-3---copying-with-existing-file-check)
 2. [Functionality](https://github.com/hurr13ane/Python-Copy-VideoFiles#functionality)
    - browse_src_dirs()
    - browse_dst_dir()

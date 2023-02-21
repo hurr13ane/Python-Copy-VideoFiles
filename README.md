@@ -2,7 +2,7 @@
 
 1. [Python Copy Videofiles](https://github.com/hurr13ane/Python-Copy-VideoFiles#python-copy-videofiles)
 2. [Story 1 - Copying from a single directory ](https://github.com/hurr13ane/Python-Copy-VideoFiles#story1-copying-from-a-single-directory)
-3. [Story 2 - Copying from multiple directories ](https://github.com/hurr13ane/Python-Copy-VideoFiles#story2-copying-from-multiple-directories)
+3. [Story 2 - Copying from multiple directories ](#story2-copying-from-multiple-directories)
 4. [Story 3 - Copying with existing file check ](https://github.com/hurr13ane/Python-Copy-VideoFiles#story3-copying-with-existing-file-check)
 2. [Functionality](https://github.com/hurr13ane/Python-Copy-VideoFiles#functionality)
    - browse_src_dirs()
@@ -156,8 +156,6 @@ The script requires user to select directories in the guy.exe:
 - Destination Directory
 
 # Contributors ✨
-
-Thanks go to these wonderful people:
 
 <table>
   <tbody>
